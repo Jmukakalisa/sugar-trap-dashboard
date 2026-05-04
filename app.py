@@ -176,7 +176,8 @@ max_fiber = opportunity['avg_fiber'].max()
 opportunity['opportunity_score'] = (
     (opportunity['avg_protein'] / max_protein) -
     (opportunity['avg_sugar'] / max_sugar) +
-    (opportunity['avg_fiber'] / max_fiber)
+    (opportunity['avg_fiber'] / max_fiber) +
+    (opportunity['product_count'] / opportunity['product_count'].max())
 ).round(3)
 
 opportunity = opportunity.sort_values('opportunity_score', ascending=False)
@@ -196,4 +197,4 @@ fig3 = px.bar(
 fig3.update_layout(showlegend=False, xaxis_tickangle=-20)
 st.plotly_chart(fig3, use_container_width=True)
 
-st.caption("Analysis by Helix CPG Partners | Data: Open Food Facts")
+st.caption("Analysis by Helix CPG Partners | Data: Open Food Facts")    

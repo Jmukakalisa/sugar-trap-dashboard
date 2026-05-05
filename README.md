@@ -42,7 +42,7 @@ Rather than asking a client to interpret a scatter plot, this condenses the anal
 
 - [x] GitHub Repo is Public
 - [x] `.ipynb` notebook file uploaded
-- [x] HTML export of notebook uploaded
+- [x] PDF export of notebook uploaded
 - [x] Raw dataset NOT uploaded
 - [x] Code uses relative paths
 - [x] Dashboard publicly accessible (verified in incognito)

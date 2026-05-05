@@ -15,7 +15,7 @@ The biggest blue ocean opportunity lies in Bars & Granola, a category with growi
 
 | Deliverable | Link |
 |-------------|------|
-| 📓 Notebook (Google Colab) | *[https://colab.research.google.com/drive/1qVLHFunBLXuHkMQpKaWwTjJBha65pv63?usp=sharing]* |
+| 📓 Notebook (Google Colab) | https://colab.research.google.com/drive/1qVLHFunBLXuHkMQpKaWwTjJBha65pv63?usp=sharing |
 | 📊 Dashboard (Streamlit) | https://sugar-trap-dashboard.streamlit.app/ |
 | 🎥 Video Walkthrough (Loom) | https://www.loom.com/share/109cbb8b9f714157bb9043adf3437d6e |
 
@@ -31,7 +31,7 @@ The `categories_tags` column contained messy, comma-separated tags like `en:choc
 
 ---
 ### Candidate's Choice — Market Opportunity Score
-I added a **Market Opportunity Score** — a composite metric that ranks each snack category by its untapped potential using the formula:
+I added a **Market Opportunity Score**, a composite metric that ranks each snack category by its untapped potential using the formula:
 opportunity_score = (avg_protein / max_protein) - (avg_sugar / max_sugar) + (avg_fiber / max_fiber)
 
 Rather than asking a client to interpret a scatter plot, this condenses the analysis into a single, boardroom-ready number per category. Bars & Granola scores highest, independently confirming our scatter plot recommendation. This addition demonstrates that data insights must be translated into actionable business language to drive real decisions.

@@ -6,7 +6,7 @@
 ## A. Executive Summary
 
 Analysis of 500,000 food products from the Open Food Facts database reveals a clear market gap in the healthy snacking aisle. 
-After cleaning and categorizing 27,116 snack products across 8 categories, only 24.6% of all snacks fall in the High Protein + Low Sugar quadrant — confirming the market is overwhelmingly dominated by sugary, low-protein offerings. 
+After cleaning and categorizing 27,116 snack products across 8 categories, only 24.6% of all snacks fall in the High Protein + Low Sugar quadrant, confirming the market is overwhelmingly dominated by sugary, low-protein offerings. 
 The biggest blue ocean opportunity lies in Bars & Granola, a category with growing consumer interest but still largely high in sugar. We recommend launching a product targeting 13g of protein and under 4g of sugar per 100g, formulated using Soy, Oat, and Sunflower as the primary protein sources — the three most common ingredients found in existing high-protein, low-sugar bars.
 
 ---
